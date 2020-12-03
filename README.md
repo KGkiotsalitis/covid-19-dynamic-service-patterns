@@ -6,7 +6,7 @@ Currently, this repository contains:
 
 1. The `model_case_study.py` script which is the source code of the devised dynamic service pattern model introduced in the paper **A model for modifying the public transport service patterns to account for the imposed COVID-19 capacity**, which is currently under scientific review. This script contains all necessary functions to calculate the solution of the mathematical program for the scenario described in the case study of the scientific paper. 
 
-2. The `hourly_OD_matrix.xlsx` file that contains the average passenger demand during the 1 hour of the study.
+2. The `model_demonstration.py` script that contains the implementation of the demonstration scenario in the scientific paper.
 
 # Referencing
 
